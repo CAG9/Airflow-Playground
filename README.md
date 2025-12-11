@@ -19,7 +19,7 @@ Scheduling & Backfilling: Understanding different scheduling intervals and manua
 MIT License
 ## Tools and Technologies
 - Pyspark
-- Aiirflow
+- Airflow
 - SQL
 - AWS
 - Python
