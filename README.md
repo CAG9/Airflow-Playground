@@ -1,6 +1,5 @@
 # Airflow Playground
-This repository serves as a personal collection of code, Directed Acyclic Graphs (DAGs), and configuration files created during my journey of learning and experimenting with Apache Airflow.
-# About This Repository
+
 The primary goal of this repo is to store and track my progress in mastering Airflow concepts, including:
 
 DAG Development: Creating and structuring various types of workflows.
