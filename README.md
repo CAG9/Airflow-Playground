@@ -24,3 +24,4 @@ MIT License
 - Python
 - API
 - Docker
+- Minio
