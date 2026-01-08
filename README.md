@@ -1,6 +1,6 @@
 # Airflow Playground
 
-The primary goal of this repo is to store and track my progress in mastering Airflow concepts, including:
+The primary goal of this repository is to store and track my progress in mastering Airflow concepts, including:
 
 DAG Development: Creating and structuring various types of workflows.
 
