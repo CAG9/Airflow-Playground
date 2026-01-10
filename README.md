@@ -25,3 +25,4 @@ MIT License
 - API
 - Docker
 - Minio
+- Metabase
