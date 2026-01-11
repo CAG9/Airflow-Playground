@@ -13,6 +13,7 @@ Hooks & Connections: Learning to connect Airflow to external systems (databases,
 Scheduling & Backfilling: Understanding different scheduling intervals and manual trigger methods.
 
 ## Author
+
 - Cesar Arcos Gonzalez cesar99ag@gmail.com
 ## License
 MIT License
