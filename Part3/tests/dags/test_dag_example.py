@@ -7,6 +7,7 @@ import pytest
 from airflow.models import DagBag
 
 
+
 @contextmanager
 def suppress_logging(namespace):
     logger = logging.getLogger(namespace)
