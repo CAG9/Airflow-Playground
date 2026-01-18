@@ -16,7 +16,7 @@ Scheduling & Backfilling: Understanding different scheduling intervals and manua
 
 - Cesar Arcos Gonzalez cesar99ag@gmail.com
 ## License
-MIT License
+MIT
 ## Tools and Technologies
 - Pyspark
 - Airflow
