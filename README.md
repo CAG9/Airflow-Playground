@@ -27,3 +27,4 @@ MIT
 - Docker
 - Minio
 - Metabase
+- Kubernetes
