@@ -28,3 +28,5 @@ MIT
 - Minio
 - Metabase
 - Kubernetes
+- Elasticsearch
+- ELK Stack
