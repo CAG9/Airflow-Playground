@@ -10,7 +10,6 @@ Sensors: Implementing workflow dependencies using sensors.
 
 Hooks & Connections: Learning to connect Airflow to external systems (databases, cloud services).
 
-
 Scheduling & Backfilling: Understanding different scheduling intervals and manual trigger methods.
 
 ## Author
